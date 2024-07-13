@@ -1,4 +1,5 @@
-**ADIVINANZA DE PALABRAS**
+## **ADIVINANZA DE PALABRAS**
+
 Codigo basico para practicar
 
 **¿Qué se uso?**
@@ -7,3 +8,4 @@ Codigo basico para practicar
 - Bucle while
 - Arreglos
 - CharAt y ValueOf
+
